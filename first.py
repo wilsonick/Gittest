@@ -26,7 +26,7 @@ def multi(n,m):
 
 # Function calls
 prnt("Sup mark ", 10)
-print(fibo(200))
+print(fibo(205))
 print(multi(3,34))
 print(module.crack(15))
 #print(dir(sys))
