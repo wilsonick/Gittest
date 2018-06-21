@@ -36,7 +36,7 @@ print(decimal.Decimal(1)/decimal.Decimal(6))
 print(math.cos(math.pi))
 
 # String definitions
-s = 'Hello, world.'
+s = 'Hell, world.'
 larry = 'cool'
 sergey = 'bad'
 
